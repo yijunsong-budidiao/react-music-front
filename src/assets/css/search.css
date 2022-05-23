@@ -1,0 +1,10 @@
+.search-container {
+    padding: 10px;
+}
+.search-container .inp {
+    border-radius: 20px;
+}
+.hot-btn {
+    border-radius: 20px;
+    margin: 5px 5px;
+}
